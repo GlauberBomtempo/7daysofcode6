@@ -35,7 +35,7 @@ O projeto contempla as seguintes etapas:
 Clone o repositório:
 
 ```bash
-git clone [[link-do-repositório](https://github.com/GlauberBomtempo/7daysofcode6/blob/main/7daysofcode6.ipynb)]
+git clone [https://github.com/GlauberBomtempo/7daysofcode6/blob/main/7daysofcode6.ipynb]
 ```
 Instale as bibliotecas necessárias:
 
