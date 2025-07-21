@@ -16,8 +16,7 @@ O projeto contempla as seguintes etapas:
 - Treinamento e avaliação de modelos de classificação:
     - Random Forest (incluindo ajuste de hiperparâmetros com RandomizedSearchCV);
     - XGBoost (incluindo ajuste de hiperparâmetros);
-- Comparação de performance entre modelos e técnicas de balanceamento com análise de métricas: Acurácia, Precisão, Recall, F1-Score e AUC;
-- Definição do modelo final com melhor desempenho após validação cruzada.
+- Comparação de performance entre modelos e técnicas de balanceamento com análise de métricas: Acurácia, Precisão, Recall e F1-Score;
 
 ## 📊 Principais Etapas
 
@@ -36,7 +35,7 @@ O projeto contempla as seguintes etapas:
 Clone o repositório:
 
 ```bash
-git clone [link-do-repositório]
+git clone [[link-do-repositório](https://github.com/GlauberBomtempo/7daysofcode6/blob/main/7daysofcode6.ipynb)]
 ```
 Instale as bibliotecas necessárias:
 
